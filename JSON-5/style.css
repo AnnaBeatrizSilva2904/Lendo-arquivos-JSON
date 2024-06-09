@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "Fira Sans", sans-serif;
+    background-color: #fff;
+    background-image: url("img/fundo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: antiquewhite;
+}
+
+p{
+    font-size: large;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+#receita-info {
+    margin-left: 5px;
+    background-color: #583e23c0;
+    padding: 0px 20px 20px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: calc(33.333% - 40px);
+    box-sizing: border-box;
+}
+

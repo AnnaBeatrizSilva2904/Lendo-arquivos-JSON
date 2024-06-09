@@ -1,0 +1,30 @@
+{
+    "clientes":
+    [
+        {
+            "nome": "Maria José",
+            "idade": 67,
+            "cidade": "Ceará"
+        },
+        {
+            "nome": "Iracema",
+            "idade": 53,
+            "cidade": "Bahia"            
+        },
+        {
+            "nome": "José Carlos",
+            "idade": 36,
+            "cidade": "Boituva"
+        },
+        {
+            "nome": "Luís Antônio",
+            "idade": 47,
+            "cidade": "Minas Gerais"
+        },
+        {
+            "nome": "Maria Judite",
+            "idade": 63,
+            "cidade": "Paraná"
+        }
+    ]
+}

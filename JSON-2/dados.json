@@ -1,0 +1,35 @@
+{
+    "animais":
+    [
+        {
+            "nome": "Arara-azul",
+            "especie": "Anodorhynchus hyacinthinus",
+            "habitat": "Habitam áreas abertas que possuem palmeiras e buritizais, florestas úmidas, onde preferem locais de várzeas e ainda áreas sazonalmente secas",
+            "dieta": "Sementes, frutas, coquinhos e nozes."
+        },
+        {
+            "nome": "Sabiá laranjeira",
+            "especie": "Turdus rufiventris",
+            "habitat": "Florestas, matas abertas, capoeiras, cercas-vivas, áreas urbanas arborizadas. Nas florestas é encontrado com mais frequência no estrato médio e em jardins no chão.",
+            "dieta": " Alimenta-se de várias espécies de frutos carnosos. Gostam muito de furar as laranjas maduras em busca do seu suco. Buscam alimentos vivos como insetos, moluscos e minhocas."        
+        },
+        {
+            "nome": "Tucano-toco",
+            "especie": "Ramphastos toco",
+            "habitat": "Vivem principalmente em florestas tropicais, sendo encontrados tanto em áreas de floresta primária quanto secundária. Em cativeiro, os tucanos precisam de espaço para voar e se movimentar, além de uma alimentação adequada e um ambiente que imite seu habitat natural.",
+            "dieta": "Os tucanos são frugívoros, ou seja, se alimentam principalmente de frutas e sementes. Eles têm um bico grande e forte que lhes permite pegar frutas diretamente da árvore, mesmo aquelas que são muito grandes para sua boca. Além disso, eles também se alimentam de insetos e pequenos animais, como lagartos e cobras."
+        },
+        {
+            "nome": "Garça-branca-grande",
+            "especie": "Ardea alba",
+            "habitat": "Beira dos lagos, rios e banhados",
+            "dieta" : " Carnívora, alimentando-se de peixes, insetos aquáticos (imagos e larvas), caranguejos, moluscos, anfíbios e répteis."
+        },
+        {
+            "nome": "Beija-flor",
+            "especie": "Caprimulgiformes Apodiformes",
+            "habitat": "O local onde vive o beija-flor, em sua maioria, é em ambientes tropicais, próximos à linha do Equador.",
+            "dieta": "A dieta principal é do néctar das flores. A ave possui bico e língua longos adaptados para coletar o néctar e complementam a dieta com moscas, aranhas e formigas."
+        }
+    ]
+}

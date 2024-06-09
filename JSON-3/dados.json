@@ -1,0 +1,30 @@
+{
+    "cidade":
+    [
+        {
+            "cidade": "Veneza",
+            "pais": "Itália",
+            "continente": "Europeu"
+        },
+        {
+            "cidade": "Xangai",
+            "pais": "China",
+            "continente": "Asiático"
+        },
+        {
+            "cidade": "Tokyo",
+            "pais": "Japão",
+            "continente": "Asiático"
+        },
+        {
+            "cidade": "Puebla",
+            "pais": "México",
+            "continente": "América do Sul"
+        },
+        {
+            "cidade": "Ouro Preto",
+            "pais": "Brasil",
+            "continente": "América do Sul"
+        }
+    ]
+}
