@@ -1,0 +1,35 @@
+configuração da conta local do GIT:
+
+git config --global user.name AnnaBeatrizSilva2904
+git config --global user.email annabeatryz2504@gmail.com
+
+---------------------------//---------------------------
+
+Para executar os projetos:
+
+- Instalar a extenção Live Server no Visual Studio;
+
+Executar o arquivo JSON-1:
+
+- Clicar no index.html e apertar "Go Live" para executar no navegador;
+- Ir na barra de pesquisa e digitar na frente "?Clientes=(número de 0 até 4)"
+
+Executar o arquivo JSON-2:
+
+- Clicar no index.html e apertar "Go Live" para executar no navegador;
+- Ir na barra de pesquisa e digitar na frente "?Animais=(número de 0 até 4)"
+
+Executar o arquivo JSON-3:
+
+- Clicar no index.html e apertar "Go Live" para executar no navegador;
+- Ir na barra de pesquisa e digitar na frente "?Cidade=(número de 0 até 4)"
+
+Executar o arquivo JSON-4:
+
+- Clicar no index.html e apertar "Go Live" para executar no navegador;
+- Ir na barra de pesquisa e digitar na frente "?Jogo=(número de 0 até 4)"
+
+Executar o arquivo JSON-5:
+
+- Clicar no index.html e apertar "Go Live" para executar no navegador;
+- Ir na barra de pesquisa e digitar na frente "?Receita=(número de 0 até 4)"
