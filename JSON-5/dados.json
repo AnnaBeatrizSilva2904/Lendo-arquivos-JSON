@@ -4,27 +4,32 @@
         {
             "receita": "Pão de queijo",
             "ingredientes": "250 gramas de polvilho doce, 1 xícara de chá de leite, Meia xícara de chá de óleo, 1 colher de chá de sal, 1 ovo, 1 xícara de chá de queijo meia-cura ralado, Óleo para untar as mãos",
-            "preparo": "Em um recipiente, coloque os 250 gramas de polvilho doce. Reserve. Em uma panela, coloque 1 xícara de chá de leite, meia xícara de chá de óleo e 1 colher de chá de sal. Deixe ferver. Em seguida, transfira a mistura para a tigela com polvilho doce. Misture os ingredientes até esfriar. Depois, adicione 1 ovo e 1 xícara de chá de queijo meia-cura ralado. Misture até a massa ficar úmida. Unte as mãos com óleo e use uma colher para pegar pequenas porções da massa. Faça bolinhas com a massa. Coloque as bolinhas em uma forma e leve para assar em forno preaquecido a 200 graus por aproximadamente 20 minutos."
+            "preparo": "Em um recipiente, coloque os 250 gramas de polvilho doce. Reserve. Em uma panela, coloque 1 xícara de chá de leite, meia xícara de chá de óleo e 1 colher de chá de sal. Deixe ferver. Em seguida, transfira a mistura para a tigela com polvilho doce. Misture os ingredientes até esfriar. Depois, adicione 1 ovo e 1 xícara de chá de queijo meia-cura ralado. Misture até a massa ficar úmida. Unte as mãos com óleo e use uma colher para pegar pequenas porções da massa. Faça bolinhas com a massa. Coloque as bolinhas em uma forma e leve para assar em forno preaquecido a 200 graus por aproximadamente 20 minutos.",
+            "imagem": "paodequeijo.jpeg"
         },
         {
             "receita": "Bolo de milho cremoso",
             "ingredientes": "1 espiga ou lata de milho, 3 ovos, 2 colheres de sopa de manteiga, 1 e meia xícara de chá de açúcar, 3 xícaras de chá de leite, 1 xicara de chá de fubá de milho, 6 colheres de sopa de farinha de trigo, 1 colher de sopa de fermento em pó, 4 colheres de sopa de queijo parmesão ralado",
-            "preparo": "Limpe a espiga de milho-verde e corte os grãos com uma faca afiada. Se não tiver espiga, use 1 lata de milho-verde. No liquidificador, coloque os grãos de milho-verde, 3 ovos, 2 colheres de sopa de manteiga, 1 e meia xícara de chá de açúcar, 3 xícaras de chá de leite, 1 xícara de chá de fubá de milho e 6 colheres de sopa de farinha de trigo. Bata até ficar homogêneo. Em seguida, adicione 1 colher de sopa de fermento em pó, 4 colheres de sopa de queijo parmesão ralado e bata novamente. Transfira a mistura para uma forma untada e enfarinhada. Leve para assar em forno preaquecido a 180 graus Celsius por 1 hora."
+            "preparo": "Limpe a espiga de milho-verde e corte os grãos com uma faca afiada. Se não tiver espiga, use 1 lata de milho-verde. No liquidificador, coloque os grãos de milho-verde, 3 ovos, 2 colheres de sopa de manteiga, 1 e meia xícara de chá de açúcar, 3 xícaras de chá de leite, 1 xícara de chá de fubá de milho e 6 colheres de sopa de farinha de trigo. Bata até ficar homogêneo. Em seguida, adicione 1 colher de sopa de fermento em pó, 4 colheres de sopa de queijo parmesão ralado e bata novamente. Transfira a mistura para uma forma untada e enfarinhada. Leve para assar em forno preaquecido a 180 graus Celsius por 1 hora.",
+            "imagem": "bolo.webp"
         },
         {
             "receita": "Muffin de chocolate",
             "ingredientes": "meia xícara de açúcar; uma xícara de farinha de trigo; uma colher de sopa de fermento em pó; quatro colheres de sopa de manteiga; 150 ml de leite; meia xícara de chocolate em pó tradicional; dois ovos.",
-            "preparo": "Peneirar a farinha com o chocolate em uma vasilha e reservar; bater as claras em neves e reservar; em outra vasilha bater a manteiga, as gemas e açúcar com uma batedeira; colocar a farinha peneirada e leite aos poucos, um de depois o outro batendo; fazer uma pausa e adicionar o fermento e as gotas de chocolate; depois juntar com a massa as claras em neves e mexer com as mãos devagar; depois da massa pronta untar as forminhas com manteiga e farinha; o forno deve ser pré-aquecido e as forminhas colocadas para assar por 25 minutos."
+            "preparo": "Peneirar a farinha com o chocolate em uma vasilha e reservar; bater as claras em neves e reservar; em outra vasilha bater a manteiga, as gemas e açúcar com uma batedeira; colocar a farinha peneirada e leite aos poucos, um de depois o outro batendo; fazer uma pausa e adicionar o fermento e as gotas de chocolate; depois juntar com a massa as claras em neves e mexer com as mãos devagar; depois da massa pronta untar as forminhas com manteiga e farinha; o forno deve ser pré-aquecido e as forminhas colocadas para assar por 25 minutos.",
+            "imagem": "muffin.webp"
         },
         {
             "receita": "Panqueca",
             "ingredientes": "2 xícaras de farinha, Meia colher de óleo, 1 pitada de sal, 2 ovos, 1 copo de leite",
-            "preparo": "Bata tudo no liquidificador. Depois coloque a massa em uma frigideira pequena untada com um pouco de óleo"
+            "preparo": "Bata tudo no liquidificador. Depois coloque a massa em uma frigideira pequena untada com um pouco de óleo",
+            "imagem": "panqueca.webp"
         },
         {
             "receita": "Sequilhos",
             "ingredientes": "1/2 xícara de manteiga, 1 xícara de açúcar, 2 gemas, maisena até dar o ponto da massa",
-            "preparo": "Misture a manteiga e o açúcar. Adicione as duas gemas e misture até ficar uma massa homogênea. Vá adicionando maisena aos poucos até dar o ponto (massa consistente). Passe um pouco de manteiga na mão. Faça bolinhas com a massa e coloque-as distantes numa fôrma untada e enfarinhada. Pressione levemente as bolinhas com um garfo. Leve ao forno até ficarem crocantes por fora e macias por dentro."
+            "preparo": "Misture a manteiga e o açúcar. Adicione as duas gemas e misture até ficar uma massa homogênea. Vá adicionando maisena aos poucos até dar o ponto (massa consistente). Passe um pouco de manteiga na mão. Faça bolinhas com a massa e coloque-as distantes numa fôrma untada e enfarinhada. Pressione levemente as bolinhas com um garfo. Leve ao forno até ficarem crocantes por fora e macias por dentro.",
+            "imagem": "sequilhos.jpg"
         }
     ]
 }

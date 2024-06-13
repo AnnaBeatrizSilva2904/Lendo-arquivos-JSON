@@ -33,6 +33,7 @@ function exibirCidadeInfo(cidade) {
     document.getElementById('cidade-cidade').textContent = cidade.cidade;
     document.getElementById('cidade-pais').textContent = cidade.pais;
     document.getElementById('cidade-continente').textContent = cidade.continente;
+    document.getElementById('cidade-imagem').src = "img/" + cidade.imagem;
 }
 
 // Chama a função para ler o arquivo JSON

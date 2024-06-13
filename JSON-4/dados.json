@@ -5,31 +5,36 @@
             "jogo": "Mortal Kombat X",
             "genero": "jogo eletrônico de luta",
             "preco": "R$ 130,00",
-            "plataforma": "PlayStation 4, Android, Xbox One, Microsoft Windows, iOS"
+            "plataforma": "PlayStation 4, Android, Xbox One, Microsoft Windows, iOS",
+            "imagem": "mortalkombat.jpg"
         },
         {
             "jogo": "Silent Hill",
             "genero": "Survival horror",
             "preco": "R$ 79,00",
-            "plataforma": "PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita"
+            "plataforma": "PlayStation, PlayStation 3, PlayStation Portable, PlayStation Vita",
+            "imagem": "silenthill.jpg"
         },
         {
             "jogo": "Hollow Knight",
             "genero": "jogo eletrônico de luta",
             "preco": "R$ 62,50",
-            "plataforma": "Nintendo Switch, PlayStation 4, Xbox One, Xbox Cloud Gaming, Linux, Microsoft Windows, MacOS"
+            "plataforma": "Nintendo Switch, PlayStation 4, Xbox One, Xbox Cloud Gaming, Linux, Microsoft Windows, MacOS",
+            "imagem": "hollow.jpg"
         },
         {
             "jogo": "Cuphead",
             "genero": "jogo eletrônico independente",
             "preco": "R$ 78,82",
-            "plataforma": "Nintendo Switch, PlayStation 4, Xbox One, Microsoft Windows, MacOS"
+            "plataforma": "Nintendo Switch, PlayStation 4, Xbox One, Microsoft Windows, MacOS",
+            "imagem": "cuphead.jpg"
         },
         {
             "jogo": "Resident Evil",
             "genero": "Survival horror",
             "preco": "R$ 15,51",
-            "plataforma": "PlayStation, Microsoft Windows, Sega Saturn, PlayStation 3, PlayStation Portable, Nintendo DS"
+            "plataforma": "PlayStation, Microsoft Windows, Sega Saturn, PlayStation 3, PlayStation Portable, Nintendo DS",
+            "imagem": "resident.jpg"
         }
     ]
 }

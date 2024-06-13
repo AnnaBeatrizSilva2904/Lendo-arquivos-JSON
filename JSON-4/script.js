@@ -34,6 +34,7 @@ function exibirJogoInfo(jogo) {
     document.getElementById('jogo-genero').textContent = jogo.genero;
     document.getElementById('jogo-preco').textContent = jogo.preco;
     document.getElementById('jogo-plataforma').textContent = jogo.plataforma;
+    document.getElementById('jogo-imagem').src = "img/" + jogo.imagem;
 }
 
 // Chama a função para ler o arquivo JSON

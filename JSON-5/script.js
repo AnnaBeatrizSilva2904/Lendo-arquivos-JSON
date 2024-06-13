@@ -33,6 +33,7 @@ function exibirReceitaInfo(receita) {
     document.getElementById('receita-receita').textContent = receita.receita;
     document.getElementById('receita-ingredientes').textContent = receita.ingredientes;
     document.getElementById('receita-preparo').textContent = receita.preparo;
+    document.getElementById('receita-imagem').src = "img/" + receita.imagem;
 }
 
 // Chama a função para ler o arquivo JSON

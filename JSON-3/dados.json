@@ -4,27 +4,32 @@
         {
             "cidade": "Veneza",
             "pais": "Itália",
-            "continente": "Europeu"
+            "continente": "Europeu",
+            "imagem": "veneza.jpeg"
         },
         {
             "cidade": "Xangai",
             "pais": "China",
-            "continente": "Asiático"
+            "continente": "Asiático",
+            "imagem": "xangai.jpeg"
         },
         {
             "cidade": "Tokyo",
             "pais": "Japão",
-            "continente": "Asiático"
+            "continente": "Asiático",
+            "imagem": "tokyo.jpeg"
         },
         {
             "cidade": "Puebla",
             "pais": "México",
-            "continente": "América do Sul"
+            "continente": "América do Sul",
+            "imagem": "puebla.jpeg"
         },
         {
             "cidade": "Ouro Preto",
             "pais": "Brasil",
-            "continente": "América do Sul"
+            "continente": "América do Sul",
+            "imagem": "ouropreto.jpeg"
         }
     ]
 }
