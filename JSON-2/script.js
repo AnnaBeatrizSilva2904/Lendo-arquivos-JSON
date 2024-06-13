@@ -34,6 +34,7 @@ function exibirAnimaisInfo(animais) {
     document.getElementById('animais-especie').textContent = animais.especie;
     document.getElementById('animais-habitat').textContent = animais.habitat;
     document.getElementById('animais-dieta').textContent = animais.dieta;
+    document.getElementById('animais-imagem').src = "img/" + animais.imagem;
 }
 
 // Chama a função para ler o arquivo JSON

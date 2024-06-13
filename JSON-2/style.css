@@ -38,3 +38,23 @@ p{
     width: calc(33.333% - 40px);
     box-sizing: border-box;
 }
+
+#animais-imagem
+{
+    width: 213px;
+    height:auto;
+    margin-left: 5px;
+    background-color: #91a57fc0;
+    padding: 5px 5px 5px 5px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+img
+{
+    width:100%;
+    max-width:100%;
+    height:auto;
+    vertical-align:middle;
+}

@@ -5,7 +5,8 @@
             "nome": "Arara-azul",
             "especie": "Anodorhynchus hyacinthinus",
             "habitat": "Habitam áreas abertas que possuem palmeiras e buritizais, florestas úmidas, onde preferem locais de várzeas e ainda áreas sazonalmente secas",
-            "dieta": "Sementes, frutas, coquinhos e nozes."
+            "dieta": "Sementes, frutas, coquinhos e nozes.",
+            "imagem": "arara.jpg"
         },
         {
             "nome": "Sabiá laranjeira",
